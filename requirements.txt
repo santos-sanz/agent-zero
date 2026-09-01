@@ -17,7 +17,7 @@ langchain-core==0.3.49
 langchain-community==0.3.19
 langchain-unstructured[all-docs]==0.1.6
 openai-whisper==20240930
-lxml_html_clean==0.3.1
+lxml_html_clean==0.4.4
 markdown==3.8.1
 mcp==1.13.1
 newspaper3k==0.2.8
